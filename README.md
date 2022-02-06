@@ -2,6 +2,15 @@
 
 
 
+### Equipe :
+
+Alessia LOI : [@Kalessia](https://github.com/Kalessia)
+Dorian LANCELIN : [@Aerrynn](https://github.com/aerrynn)
+Francesco SABATINO : @
+Anatole STANKOVIC : [@Anatole](https://github.com/anatole17)
+
+
+
 ### Semaine 1 (2 Février 2022)
 
 > Objectifs :
