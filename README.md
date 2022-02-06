@@ -6,7 +6,7 @@
 
 Alessia LOI : [@Kalessia](https://github.com/Kalessia)
 Dorian LANCELIN : [@Aerrynn](https://github.com/aerrynn)
-Francesco SABATINO : @
+Francesco SABATINO : [@Fransab](https://github.com/fransab)
 Anatole STANKOVIC : [@Anatole](https://github.com/anatole17)
 
 
