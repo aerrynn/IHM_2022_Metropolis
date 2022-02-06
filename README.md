@@ -1,6 +1,8 @@
 # IHM_2022_Metropolis
 
+### Encadrant :
 
+Gilles BAILLY
 
 ### Equipe :
 
