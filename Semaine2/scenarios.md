@@ -2,7 +2,7 @@
 
 ## Francesco
 
-    1) Maxime est étudiant et connaît, à part sa langue maternelle, les deux langues de
+    1. Maxime est étudiant et connaît, à part sa langue maternelle, les deux langues de
 LV1 et LV2 apprises dans l’enseignement secondaire, souvent l’anglais et l’espagnol ou
 l’allemand. Il comprend une bonne partie de documents du langage commun et quelques
 vidéos, mais est vite perdu dans le vocabulaire spécifique et aurait des difficultés à
@@ -15,7 +15,7 @@ ou spécifiquement plus à l’aise dans certaines langues pour faciliter le mai
 niveau en conversation.
 
 
-    2) Riley est une passionnée de langues et a un métier mêlant le social et l’international.
+    2. Riley est une passionnée de langues et a un métier mêlant le social et l’international.
 Elle maîtrise plusieurs langues couramment et d’autres à un niveau moins élevé. Les
 nombreux voyages effectués dans sa jeunesse lui ont permis d’acquérir une aisance dans
 plusieurs langues mais également une culture assez large. Elle a plusieurs amis dans
